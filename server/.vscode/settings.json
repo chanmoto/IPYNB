@@ -1,0 +1,4 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "github.copilot.inlineSuggest.enable": true
+}
